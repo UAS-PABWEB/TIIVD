@@ -34,6 +34,9 @@ _**⚠️ Tersedia Bonus Nilai Jika (Aplikasi) Yang Anda Buat Memiliki Nilai Tam
     │   ├── Contributors.md       # List bodata Anggota kelompok anda
     │   └── Link Website.md       # Demo Website project anda
     └── ...
+* Push berkas project kelompok anda ke repositori pada `branch` *kelompok_anda*.
+* Buat `Pull Request` untuk` Merge branch` `kelompok_anda `dengan `branch master` pada repositori ini.
+* Tugas anda dinyatakan diterima jika `branch kelompok_anda` telah `merged `dengan `branch master repositori ini.`
 
 **❌ Tidak diperbolehkan `push project` dengan format berkas (.zip/.rar/.tar/.7z) & `Add files via upload`.**
 

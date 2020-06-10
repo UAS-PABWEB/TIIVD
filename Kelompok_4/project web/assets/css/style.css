@@ -1,0 +1,111 @@
+html,body{
+	/*font-family: 'Segoe UI';*/
+	font-weight: 300;
+}
+.navbar{
+ border-left: solid 10px #563D7C;
+}
+.navbar-nav {
+	flex-direction: row;
+}
+
+.nav-link {
+	padding-right: .5rem !important;
+	padding-left: .5rem !important;
+}
+.text-purple{
+	color: #563D7C;
+}
+.text-bold{
+	font-weight: 700;
+}
+
+/* Fixes dropdown menus placed on the right side */
+.ml-auto .dropdown-menu {
+	left: auto !important;
+	right: 0px;
+}
+.navbar-title{
+	/*padding : 10px;*/
+	padding: 0px 20px;
+	background: #F8F9FA;
+}
+.navbar-title .head1{
+	font-size: 35px;
+	color: #563D7C;
+	font-weight: 700;
+}
+.navbar-title .head2{
+	font-size: 35px;
+	font-weight: 300;
+}
+.navbar-title p{
+	font-weight: 500;
+	letter-spacing: 1.1px;
+}
+.navbar-nav .nav-item.active{
+	font-weight: 700;
+	margin-right: 10px;
+}
+.navbar-nav li a{
+	text-transform: uppercase;
+}
+.nav-item .account{
+	background-color: #563D7C;
+	font-weight: 600;
+	color: #fff;
+}
+.footer {
+	margin-top: 40px;
+	text-align: center;
+  width: 100%;
+  height: 50px; /* Set the fixed height of the footer here */
+  line-height: 50px; /* Vertically center the text there */
+  background-color: #343A40;
+}
+.footer span{
+	color: rgba(255,255,255,.5);
+}
+.footer b{
+	font-weight: 700;
+}
+.btn-primary{
+	background-color: #563D7C;
+    border-color: #563D7C;
+}
+.btn-primary:hover{
+	background-color: #442f66;
+    border-color: #442f66;
+}
+.section-title{
+	text-align: center;
+	font-weight: 300;
+	font-size: 30px;
+}
+.section-title span{
+	color: #563D7C;
+	font-weight: 600;
+}
+.kota .card-title{
+	color: #563D7C !important;
+	font-weight: 700;
+}
+.kota-list .card{
+	border-color: transparent;
+}
+.card-header{
+	font-weight: 600 !important;
+}
+.badge-primary{
+	background-color: #563D7C;
+}
+.card .gambar{
+  width: 100%;
+  height: 200px;
+}
+
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

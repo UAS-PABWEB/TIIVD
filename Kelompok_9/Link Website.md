@@ -7,7 +7,7 @@
 | Roles | Username | Password |
 | ------------- | ------------- | ------------- |
 | Admin | kelompok9pabweb@gmail.com | 88888888 |
-| User |*silahkan daftar melalui form register*  | < |
+| User |*silahkan daftar melalui halaman register*  | < |
 
 ### Permission
 

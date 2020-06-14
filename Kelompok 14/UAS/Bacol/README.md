@@ -8,7 +8,7 @@
 This project is made for my youtube tutorial on "Realtime Chatting".
 
 ## Contributors
-1. Hilal Hamdi      : [A2.1800064] (A2.1800064@mhs.stmik-sumedang.ac.id)
-2. Ahmad Mauludin   : [A2.1800011] (A2.1800011@mhs.stmik-sumedang.ac.id)
-3. Heru Esa Ramadhan: [A2.1800063] (A2.1800063@mhs.stmik-sumedang.ac.id)
+1. Hilal Hamdi      : [A2.1800064](A2.1800064@mhs.stmik-sumedang.ac.id)
+2. Ahmad Mauludin   : [A2.1800011](A2.1800011@mhs.stmik-sumedang.ac.id)
+3. Heru Esa Ramadhan: [A2.1800063](A2.1800063@mhs.stmik-sumedang.ac.id)
 
